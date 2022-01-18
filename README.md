@@ -3,7 +3,7 @@
 
 ## About the project
 
-This work is to implement several MAB algorithms including approximate solutions w/ and w/o contextual bandit, more advanced and paper-based strategies. 
+This work is to implement several MAB algorithms including basic, contextual, and more advanced multi armed bandits from papers.
 
 
 ## Background
